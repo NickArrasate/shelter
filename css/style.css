@@ -1,0 +1,68 @@
+body {
+  font-family: fantasy;
+}
+
+.animal1{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+  background-color: aqua;
+}
+
+.dogs img{
+  display: block;
+  margin: 0 auto;
+}
+
+.cats img{
+  display: block;
+  margin: 0 auto;
+}
+
+.animal2{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+  background-color: red;
+}
+
+img {
+  width: 75%;
+  height: 75%;
+}
+
+.animal3{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+  background-color: gold;
+}
+
+.animal4{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+  background-color: pink;
+}
+
+.dogs p {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cats p {
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+}
+
+.dogs h3{
+  text-align: center;
+  font-size: 300%;
+}
+
+.cats h3{
+  text-align: center;
+  font-size: 300%;
+}
